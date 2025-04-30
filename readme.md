@@ -36,3 +36,4 @@ let product: Product = {
 ```
 
 This object implements the merged `Product` interface, containing properties from both interface declarations.
+123
