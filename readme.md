@@ -46,7 +46,7 @@ containing properties from both interface declarations.
 
 ---
 
-## 不想開網頁，只想執行 TypeScript
+## 不想開網頁，只想執行 
 
 1. **新增一個檔案**（例如 `app.js`）
 2. 在檔案中寫程式：
