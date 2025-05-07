@@ -36,4 +36,9 @@ let product: Product = {
 ```
 
 This object implements the merged `Product` interface, containing properties from both interface declarations.
-123
+
+不想開網頁，就想執行
+新增1個檔案，例如app.js，然後打node app.js
+```js
+    node app.js
+```
